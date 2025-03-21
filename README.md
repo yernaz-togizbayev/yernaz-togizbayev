@@ -32,11 +32,6 @@ Here are some ideas to get you started:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-### 🔧 Software Engineering & Automation
-- **PLC (Programmable Logic Controllers) Development** – Siemens PLC driver development for industrial automation  
-- **Embedded Systems & Low-Level Programming** – Performance optimizations & protocol development  
-- **Testing & Debugging** – Ensuring quality and compatibility of PLC drivers  
-
 
 ### 📂 Frameworks & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
@@ -79,6 +74,12 @@ Here are some ideas to get you started:
 ![Oracle](https://img.shields.io/badge/Oracle-CC2927?style=flat&logo=oracle&logoColor=white)
 
 
+### 🔧 Software Engineering & Automation
+- **PLC (Programmable Logic Controllers) Development** – Siemens PLC driver development for industrial automation  
+- **Embedded Systems & Low-Level Programming** – Performance optimizations & protocol development  
+- **Testing & Debugging** – Ensuring quality and compatibility of PLC drivers  
+
+
 ## 📈 GitHub Stats
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yernaz-togizbayev&layout=compact&theme=tokyonight)
 
@@ -99,17 +100,16 @@ Here are some ideas to get you started:
 - Backend Development with Spring Boot
 - React.js & Modern Frontend Development
 
+<!--
 ---
 
 ## 📫 Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yernaz-togizbayev-9449b31b4/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yernaz-togizbayev)
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-20c997?style=flat&logo=web&logoColor=white)](#) (Coming Soon!) -->
+[![Portfolio](https://img.shields.io/badge/Portfolio-20c997?style=flat&logo=web&logoColor=white)](#) (Coming Soon!) -->
 
 ---
 
 ✨ **"Technology should make life easier, not more complicated."**
-
-<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100" />
 
 
