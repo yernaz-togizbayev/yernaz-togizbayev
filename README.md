@@ -83,7 +83,7 @@ Here are some ideas to get you started:
 
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yernaz-togizbayev&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yernaz-togizbayev&layout=compact&theme=tokyonight&langs_count=10)
 
 ---
 
