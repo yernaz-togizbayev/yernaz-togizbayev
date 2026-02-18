@@ -68,7 +68,7 @@ With a strong foundation in **Computer Science & Mechanical Engineering**, I hav
 
 
 ## 📈 GitHub Stats
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yernaz-togizbayev&layout=compact&theme=tokyonight&langs_count=12)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yernaz-togizbayev&layout=compact&theme=tokyonight&langs_count=10)
  
 ---
 
