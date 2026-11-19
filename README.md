@@ -16,6 +16,7 @@ With a strong foundation in **Computer Science & Mechanical Engineering**, I hav
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
+[![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 
 
 ### 📂 Frameworks & Tools
