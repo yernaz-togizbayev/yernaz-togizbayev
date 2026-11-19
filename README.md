@@ -20,7 +20,6 @@ With a strong foundation in **Computer Science & Mechanical Engineering**, I hav
 
 ### 🌐 Frontend & Web:
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
-![CSS3](https://shields.io)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
@@ -29,8 +28,6 @@ With a strong foundation in **Computer Science & Mechanical Engineering**, I hav
 ### 📂 Frameworks & Tools
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-CCA8C5?style=flat&logo=python&logoColor=black)
-
-
 
 
 ### 📊 Data Science & Analysis
@@ -65,6 +62,8 @@ With a strong foundation in **Computer Science & Mechanical Engineering**, I hav
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 ![NoSQL](https://img.shields.io/badge/NoSQL-005C84?style=flat&logo=nosql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-CC2927?style=flat&logo=oracle&logoColor=white)
+[![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb&logoColor=white)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 
 
 ### 🔧 Software Engineering & Automation
