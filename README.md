@@ -73,7 +73,7 @@ With a strong foundation in **Computer Science & Mechanical Engineering**, I hav
 ### 🧪 Testing
 [![JUnit5](https://img.shields.io/badge/JUnit5-C21325?logo=junit5&logoColor=fff)](#)
 [![Pytest](https://img.shields.io/badge/Pytest-fff?logo=pytest&logoColor=000)](#)
-<img src="catch2-logo-full.svg" alt="Catch2" height="20">
+<img src="catch2-badge.svg" alt="Catch2" height="24">
 
  
 ### 🏗️ Build tools
