@@ -111,7 +111,6 @@ With a strong foundation in **Computer Science & Mechanical Engineering**, I hav
 [![Cursor](https://img.shields.io/badge/Cursor-000000?logo=cursor)](#)
 [![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?logo=intellij-idea&logoColor=white)](#)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](#)
-[![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=flat&logo=jetbrains&logoColor=white)](#)
 [![Android Studio](https://img.shields.io/badge/Android%20Studio-1976D2?logo=androidstudio&logoColor=fff)](#)
 [![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?logo=Eclipse&logoColor=white)](#)
 [![Spyder](https://img.shields.io/badge/Spyder-FF0000?logo=spyderide&logoColor=fff)](#)
