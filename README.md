@@ -43,6 +43,8 @@ With a strong foundation in **Computer Science & Mechanical Engineering**, I hav
 [![Microsoft SQL Server](https://custom-icon-badges.demolab.com/badge/Microsoft%20SQL%20Server-CC2927?logo=mssqlserver-white&logoColor=white)](#)
 [![Oracle](https://custom-icon-badges.demolab.com/badge/Oracle-F80000?logo=oracle&logoColor=fff)](#)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white)](#)
+[![SQL](https://img.shields.io/badge/SQL-CC2927?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2ZmZiI%2BPHBhdGggZD0iTTEyIDJDNyAyIDMgMy44IDMgNnYxMmMwIDIuMiA0IDQgOSA0czktMS44IDktNFY2YzAtMi4yLTQtNC05LTR6bTAgMmM0LjQgMCA3IDEuMyA3IDJzLTIuNiAyLTcgMi03LTEuMy03LTIgMi42LTIgNy0yek01IDkuMkM2LjcgMTAuMyA5LjIgMTEgMTIgMTFzNS4zLS43IDctMS44VjEyYzAgLjctMi42IDItNyAycy03LTEuMy03LTJWOS4yem0wIDZDNi43IDE2LjMgOS4yIDE3IDEyIDE3czUuMy0uNyA3LTEuOFYxOGMwIC43LTIuNiAyLTcgMnMtNy0xLjMtNy0ydi0yLjh6Ii8%2BPC9zdmc%2B)](#)
+[![NoSQL](https://img.shields.io/badge/NoSQL-005C84?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgc3Ryb2tlPSIjZmZmIiBzdHJva2Utd2lkdGg9IjIuNCIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj48cGF0aCBkPSJNOSAzQzYgMyA2IDUgNiA3czAgNC0zIDVjMyAxIDMgMyAzIDVzMCA0IDMgNE0xNSAzYzMgMCAzIDIgMyA0czAgNCAzIDVjLTMgMS0zIDMtMyA1czAgNC0zIDQiLz48L3N2Zz4%3D)](#)
 [![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white)](#)
 [![NoSQL](https://img.shields.io/badge/NoSQL-005C84?style=flat&logo=nosql&logoColor=white)](#)
 
